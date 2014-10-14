@@ -3,3 +3,4 @@ b = siva
 c = a+b
 if c = balaji
   print c
+  print a
