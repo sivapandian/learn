@@ -1,2 +1,5 @@
-sam
-siva
+a = sam
+b = siva
+c = a+b
+if c = balaji
+  print c
